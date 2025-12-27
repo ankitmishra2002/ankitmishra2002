@@ -1,20 +1,77 @@
-<h1 align="center">Hi 👋, I'm Ankit kumar mishra</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h1 align="center">Hi 👋, I'm Ankit Mishra</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | React | Node.js</h3>
 
-- 💬 Ask me about **react node.js**
+---
 
-- 📫 How to reach me **ankitmishra84763@gmail.com**
+### 🚀 About Me
+- 🎓 Computer Science Enthusiast
+- 💻 Passionate Full Stack Developer (MERN)
+- 🌱 Currently improving **DSA & System Design**
+- 🔭 Working on **Real-world React & Node.js projects**
+- 🎯 Goal: To build scalable, user-friendly web applications
+- 📍 Based in India
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ankitmi23961841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ankitmi23961841" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit-mishra-bb1967284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-mishra-bb1967284" height="30" width="40" /></a>
-<a href="https://fb.com/ankit.mishrs.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankit.mishrs.77" height="30" width="40" /></a>
-<a href="https://instagram.com/ankit.mishra16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit.mishra16" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itz_ankit_mishra_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itz_ankit_mishra_02" height="30" width="40" /></a>
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+- React.js
+- JavaScript (ES6+)
+- HTML5, CSS3
+- Bootstrap, Tailwind CSS
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+
+**Database**
+- MongoDB
+- MySQL (Basic)
+
+**Tools & Platforms**
+- Git & GitHub
+- Postman
+- VS Code
+- Firebase
+- Cloudinary
+
+---
+
+### 📌 Projects
+🔹 **E-Commerce MERN App**  
+- Authentication & Authorization  
+- Payment Gateway Integration  
+- Admin & User Dashboard 
+
+👉 *More projects available in repositories below ⬇️*
+
+---
+
+<!--### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitmishra2002&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmishra2002&theme=tokyonight" width="48%" />
 </p>
+-->
+### 🧠 DSA & Problem Solving
+- Solving problems on **LeetCode**
+- Strong in Arrays, Strings, Linked List, Stack, Queue
+- Learning Advanced DSA concepts step-by-step
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitmishra2002&show_icons=true&locale=en&layout=compact" alt="ankitmishra2002" /></p>
+### 🤝 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/ankit-mishra-bb1967284/
+- 🧑‍💻 GitHub: https://github.com/ankitmishra2002
+- 📧 Email: ankitmishra84763@gmail.com.com
+
+---
+
+### ✨ Quote I Believe In
+> *"Code is like humor. When you have to explain it, it’s bad."*
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
